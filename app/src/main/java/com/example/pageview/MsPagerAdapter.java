@@ -1,5 +1,4 @@
 package com.example.pageview;
-import android.support.v4.view.PagerAdapter;
 
 import android.view.View;
 import android.view.ViewGroup;
